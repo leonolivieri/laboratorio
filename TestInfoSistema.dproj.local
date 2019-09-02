@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/01 10:57:56.000.590,=C:\Users\Leon2\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2019/09/01 11:04:51.000.458,C:\Users\Leon2\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm=C:\Minhas Coisas\Profissional\Embarcadero\Laboratorio\SearchCep\Principal.dfm</Transaction>
+    <Transaction>2019/09/01 11:04:51.000.458,C:\Users\Leon2\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas=C:\Minhas Coisas\Profissional\Embarcadero\Laboratorio\SearchCep\Principal.pas</Transaction>
+    <Transaction>2019/09/01 11:05:26.000.285,C:\Users\Leon2\OneDrive\Documentos\Embarcadero\Studio\Projects\Project4.dproj=C:\Minhas Coisas\Profissional\Embarcadero\Laboratorio\SearchCep\TestInfoSistema.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
